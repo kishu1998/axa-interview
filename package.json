@@ -1,0 +1,22 @@
+{
+  "name": "react-interview-task",
+  "version": "0.0.32",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/g5XOZDRlZ",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "15.5.3",
+    "react": "15.5.4",
+    "axios": "0.16.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

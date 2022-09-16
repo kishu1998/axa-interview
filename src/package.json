@@ -1,0 +1,13 @@
+{
+  "name": "react-interview-task",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/g5XOZDRlZ",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "15.5.3",
+    "react": "15.5.4",
+    "axios": "0.16.2"
+  }
+}
